@@ -345,4 +345,3 @@ The project demonstrates practical applications of cloud storage, event-driven c
 **Development Environment:** AWS Academy Cloud Developing Sandbox
 
 **AWS Region:** us-east-1
-
